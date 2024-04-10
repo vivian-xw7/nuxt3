@@ -24,7 +24,7 @@
   </div>
 </template>
   
-  <style scoped>
-  /* Your scoped styles here */
-  </style>
+<style scoped>
+/* Your scoped styles here */
+</style>
   
